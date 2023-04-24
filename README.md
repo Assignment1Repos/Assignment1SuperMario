@@ -168,7 +168,7 @@ plt.show()
 Different populations of Mario learned in different way and for different environments. Here are some of the things the AI was able to learn:
 
 Mario beating 1-1:
-![Mario Beating 1-1](/Level 1-1.gif)
+!(/Level 1-1.gif)
 
 Mario learning to walljump:
 ![Mario Learning to Walljump](/Level 4-4 walljump train.gif)
